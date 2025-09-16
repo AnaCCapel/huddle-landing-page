@@ -29,8 +29,10 @@ O objetivo foi reproduzir um layout moderno e adaptável para **desktop** e **mo
 <br>
 ## 🎨 Recursos e Destaques:
 
-✔️ **Layout responsivo** (desktop, tablet e mobile);  
+✔️ **Layout responsivo** (desktop, tablet e mobile); 
+<br>
 ✔️ Estrutura desenvolvida **Flexbox**;
+<br>
 ✔️ Botões e links com **efeito hover (active states)**.
  
  
