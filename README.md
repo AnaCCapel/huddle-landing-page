@@ -14,10 +14,12 @@ O objetivo foi reproduzir um layout moderno e adaptável para **desktop** e **mo
 <br>
 
 ### 🖥️ Desktop Design
+<img width="1920" height="3601" alt="screencapture-127-0-0-1-5501-index-html-2025-09-15-23_35_59" src="https://github.com/user-attachments/assets/3ad03e44-95b9-46bc-9dd7-7302844f8a7a" />
 
 <br>
 
 ### 📱 Mobile Design
+<img width="606" height="5438" alt="screencapture-127-0-0-1-5501-index-html-2025-09-15-23_39_54" src="https://github.com/user-attachments/assets/94b6168d-fbda-4f6c-b301-1d16053ddb60" />
 
 <br>
 
