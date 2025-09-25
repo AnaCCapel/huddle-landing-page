@@ -1,0 +1,49 @@
+@media (min-width: 900px) {
+
+    body {
+        background: url('../img/bg-desktop.svg') no-repeat center / contain;
+        background-color: var(--primary-color);
+    }
+
+    .header a img {
+        width: 265px;
+        margin: 30px;
+    }
+
+    .main {
+        width: 100vw;
+        text-align: left;
+        align-items: center;
+        justify-content: center;
+        flex-direction: row;
+    }
+
+    .main img {
+        width: 50%;
+        margin-left: 60px;
+    }
+
+    .main h1 {
+        font-size: 48px;
+    }
+
+    .main .infos p {
+        width: 500px;
+    }
+
+    .main .infos a {
+        padding: 13px 50px;
+    }
+
+    .social {
+        justify-content: flex-end;
+        padding: 0 80px;
+    }
+
+    .social a {
+    width: 40px;
+    height: 40px;
+    font-size: 16px;
+}
+
+}
