@@ -11,13 +11,19 @@ O objetivo foi reproduzir um layout moderno e adaptável para **desktop** e **mo
 
 ### 🖱️ Active States
 
+<img width="1024" height="504" alt="huddle-landing-page-hover" src="https://github.com/user-attachments/assets/a6bcd8aa-e5f1-44fb-aee6-dd009d7e6b6b" />
+
 <br>
 
 ### 🖥️ Desktop Design
 
+<img width="1024" height="504" alt="huddle-landing-page" src="https://github.com/user-attachments/assets/a4a68c07-7d05-4f7d-812f-67e7f576d992" />
+
 <br>
 
 ### 📱 Mobile Design
+
+<img width="420" height="858" alt="huddle-landing-page-responsivo" src="https://github.com/user-attachments/assets/26748d64-69c3-4821-a7b8-52ea00b1e3bc" />
 
 <br>
 
